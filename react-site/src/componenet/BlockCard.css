@@ -1,0 +1,32 @@
+.BlogCard{
+    margin : 16px;
+    padding : 16px;
+    box-sizing:  border-box;
+    border-radius:  5px;
+    /* box-shadow:  3px 5px 8px rgb(17, 17, 17); */
+    color:white;
+    box-shadow:  3px 5px 8px whitesmoke;
+    background-color: rgb(218, 131, 18);
+    font-size:medium;
+  }
+  
+
+  @media(min-width: 992px){
+    .BlogCard{
+      width:45%;
+      display: inline-block;
+    }
+  }
+
+  
+.Btn{
+    color:white;
+    text-align: center;
+    color: rgb(11, 174, 238);
+    box-sizing:  border-box;
+    border-radius:  50px;
+    background-color: rgb(251, 250, 252);
+    width:20%;
+    font-size: large;
+    -webkit-box-align: center;
+  }
