@@ -1,8 +1,11 @@
 *{
-  background-color: black;
+  /* background-color: black; */
+  /* margin: 10px; */
 }
 
 .App {
   text-align: center;
   color: rgb(245, 235, 235);
+  margin-right: 80px;
+  margin-left: 80px;
 }
